@@ -1,0 +1,27 @@
+Detailed Description for Level 1 Task 3: Calculator Application Development
+
+In this task, you will create a functional calculator application using HTML, CSS, and JavaScript. The calculator will perform basic arithmetic operations and demonstrate your ability to combine interactivity with user-friendly design. This task tests your knowledge of DOM manipulation, event handling, and logic implementation in JavaScript.
+
+Calculator Application Features
+User Interface (UI)
+
+Design a clean and visually appealing calculator layout using HTML and CSS.
+Include buttons for digits (0–9) and operators (+, -, *, /, =).
+Add a display screen at the top to show inputs and results.
+Include additional buttons for functionalities such as Clear (C) and Backspace.
+Functionalities
+
+Perform basic arithmetic operations:
+Addition, Subtraction, Multiplication, Division.
+Implement the Clear (C) button to reset the calculator.
+Use the Backspace button to delete the last entered character.
+Allow chaining of operations (e.g., 2 + 3 * 4 = 14).
+Prevent invalid operations like division by zero, displaying an error message or handling gracefully.
+Error Handling
+
+Ensure the application can handle invalid inputs or syntax errors (e.g., ++, /=, etc.).
+Display an appropriate error message or reset the screen when invalid operations occur.
+Responsive Design
+
+Use CSS to make the calculator responsive across various screen sizes.
+Ensure buttons and display adjust well for smaller devices.
